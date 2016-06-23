@@ -1,0 +1,11 @@
+*.py?
+*.sw?
+*.sh
+*.sqlite3
+*~
+*.egg-info
+.coverage
+.tox
+htmlcov
+build
+dist
