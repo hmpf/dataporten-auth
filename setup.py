@@ -6,7 +6,7 @@ with open('README.rst') as F:
 
 setup(
     name='dataporten-auth',
-    version='0.1',
+    version='0.1.1',
     packages=['dataporten'],
     include_package_data=True,
     package_dir = {'': 'src',},

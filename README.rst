@@ -130,4 +130,4 @@ Optionally, you can add other python-social-auth plugins as well.
 
 
 
-:Version: 0.1
+:Version: 0.1.1
