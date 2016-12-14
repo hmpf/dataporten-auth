@@ -67,6 +67,7 @@ In your ``settings.py``:
   ``SOCIAL_AUTH_ADMIN_USER_SEARCH_FIELDS``, for instance to ``['username',
   'email']``.
 
+Also see the settings in ``src\demosite\settings.py`` in the source.
 
 
 Plugins
